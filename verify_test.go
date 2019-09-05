@@ -1,4 +1,4 @@
-package google_auth
+package googleAuth
 
 import (
 	"testing"
